@@ -72,14 +72,17 @@ a.active, a:hover{
 
 }
 
+.sidebar a {
+    padding: 5px;
+}
 
-.sidebar input[type=text] {
+.sidebar input[type=text] input[type=email] {
     padding: 6px;
     margin-top: 8px;
     border: none;
   }
 
-.sidebar.search-container button {
+.sidebar.search-container .subscribe-container button {
     align-content: stretch;
     padding: 6px 10px;
     margin-top: 8px;
@@ -89,7 +92,7 @@ a.active, a:hover{
     cursor: pointer;
   }
 
-  .sidebar.search-container button:hover {
+  .sidebar.search-container .subscribe-container button:hover {
     background: #ccc;
   }
 
