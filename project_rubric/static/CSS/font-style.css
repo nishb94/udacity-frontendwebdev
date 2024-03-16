@@ -1,0 +1,14 @@
+body {
+    font-family: 'Lobster', sans-serif;
+}
+
+
+.blog-date {
+    text-transform: uppercase;
+    font-weight: lighter;
+    margin: 10px 0;
+}
+
+.blog-header .bio-header  .header-title .blog-title{
+    font-weight: bold;
+}
